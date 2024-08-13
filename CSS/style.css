@@ -20,14 +20,13 @@ body{
 }
 .main-card{
     background-color: var(--white);
-    width: 24.438rem;
+    width: 391px;
     padding: 1.375rem;
-    border-radius: 1.25rem;
+    border-radius: 20px;
 }
 .main-card__img{
-    width: 21.875;
-    height: 21.875;
-    border-radius: 0.938rem;
+    width: 100%;
+    border-radius: 15px;
 }
 .main-card__heading{
     color:var(--main-dark-color);
