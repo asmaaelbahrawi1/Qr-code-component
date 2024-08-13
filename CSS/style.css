@@ -25,8 +25,7 @@ body{
     border-radius: 1.25rem;
 }
 .main-card__img{
-    width: 21.875rem;
-    height: 21.875rem;
+    width: 100%;
     border-radius: 0.938rem;
 }
 .main-card__heading{
